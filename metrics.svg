@@ -199,16 +199,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 827kb of code in 456 edited files across 40 commits over last 13 days</small>
+                <small>estimation from 497kb of code in 209 edited files across 19 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.44264637556654" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="458.44264637556654" y="0" width="0.8105336056735599" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="459.25317998124007" y="0" width="0.49035266890499946" height="8" fill="#ba595e"/>
-                    <rect mask="url(#languages-bar)" x="459.7435326501451" y="0" width="0.2564673498549175" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.7664905694536" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="457.7664905694536" y="0" width="1.1624427642149675" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="458.9289333336686" y="0" width="0.7032489558633834" height="8" fill="#ba595e"/>
+                    <rect mask="url(#languages-bar)" x="459.632182289532" y="0" width="0.3678177104680196" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -220,8 +220,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>568 kB</div>
-                                <div>99.66%</div>
+                                <div>395 kB</div>
+                                <div>99.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -233,7 +233,7 @@
                             </div>
                             <small>
                                 <div>608 bytes</div>
-                                <div>0.11%</div>
+                                <div>0.15%</div>
                             </small>
                         </div>
                     </section>
@@ -247,7 +247,7 @@
                             </div>
                             <small>
                                 <div>1 kB</div>
-                                <div>0.18%</div>
+                                <div>0.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -259,7 +259,7 @@
                             </div>
                             <small>
                                 <div>318 bytes</div>
-                                <div>0.06%</div>
+                                <div>0.08%</div>
                             </small>
                         </div>
                     </section>
@@ -319,7 +319,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.38021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.59240246406571 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
