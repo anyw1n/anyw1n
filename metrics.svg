@@ -199,16 +199,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 344kb of code in 482 edited files across 67 commits over last 14 days</small>
+                <small>estimation from 269kb of code in 354 edited files across 52 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.24629939240714" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="356.24629939240714" y="0" width="64.06948578885128" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="420.3157851812584" y="0" width="26.283570525629003" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="446.59935570688737" y="0" width="13.400644293112588" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.3810749305977" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="376.3810749305977" y="0" width="49.74002454397064" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="426.12109947456844" y="0" width="23.43818136326268" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="449.55928083783107" y="0" width="10.440719162168925" height="8" fill="#701516"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -220,8 +220,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>189 kB</div>
-                                <div>77.44%</div>
+                                <div>137 kB</div>
+                                <div>81.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -232,8 +232,8 @@
                                 Swift
                             </div>
                             <small>
-                                <div>14 kB</div>
-                                <div>5.71%</div>
+                                <div>8.55 kB</div>
+                                <div>5.1%</div>
                             </small>
                         </div>
                     </section>
@@ -246,8 +246,8 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>34.1 kB</div>
-                                <div>13.93%</div>
+                                <div>18.1 kB</div>
+                                <div>10.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -258,8 +258,8 @@
                                 Ruby
                             </div>
                             <small>
-                                <div>7.14 kB</div>
-                                <div>2.91%</div>
+                                <div>3.81 kB</div>
+                                <div>2.27%</div>
                             </small>
                         </div>
                     </section>
@@ -319,7 +319,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.47056810403836 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.6827515400411 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -383,7 +383,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.41m out of 143m users</span>
+                                    <span class="gh">ranked 8.42m out of 143m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
