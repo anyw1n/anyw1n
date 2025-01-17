@@ -199,14 +199,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 6.34kb of code in 110 edited files across 10 commits over last 3 days</small>
+                <small>estimation from 8.74kb of code in 115 edited files across 12 commits over last 4 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.8300835654596" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="442.8300835654596" y="0" width="17.16991643454039" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.6461465044142" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="452.6461465044142" y="0" width="7.353853495585779" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -218,8 +218,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>1.73 kB</div>
-                                <div>96.27%</div>
+                                <div>4.12 kB</div>
+                                <div>98.4%</div>
                             </small>
                         </div>
                     </section>
@@ -233,7 +233,7 @@
                             </div>
                             <small>
                                 <div>67 bytes</div>
-                                <div>3.73%</div>
+                                <div>1.6%</div>
                             </small>
                         </div>
                     </section>
@@ -293,7 +293,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.71218343600273 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.92436687200546 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -357,7 +357,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.98m out of 153m users</span>
+                                    <span class="gh">ranked 8.99m out of 153m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
